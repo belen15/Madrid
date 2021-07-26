@@ -1,0 +1,18 @@
+.main{
+  /*background: #fff;*/
+  font-size: 15px;
+  line-height: 2;
+  
+}
+
+article{
+  padding: 20px;
+  width: 100%;
+  background: #fff;
+  background: rgba(255,255,255,.8);
+}
+
+.titulo{
+  font-weight: 400;
+  font-size: 32px;
+}
