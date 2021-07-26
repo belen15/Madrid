@@ -1,0 +1,21 @@
+*{
+
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+ 
+  
+}
+
+body{
+  font-family: 'open-sans', sans-serif;
+  background: #000 url('./fondo3.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.contenedor{
+  margin:auto;
+  width: 90%;
+  max-width: 1200px;
+}
